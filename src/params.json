@@ -1,9 +1,9 @@
 {
-    "name": "Themify Icons v1",
+    "name": "Themify Icons v2",
     "alias": "witsec-themify-icons",
-    "version": 1,
+    "version": 2,
     "minAppVersion": "4",
     "plugins": ["themify"],
     "description": "Add Themify icons to your website. <a href='https://witsec.nl'>Learn more...</a>",
-    "logo": "thumbnail.svg"
+    "logo": "thumbnail.jpg"
 }
